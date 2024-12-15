@@ -1,1 +1,6 @@
-1. Run curl -fsSL https://ollama.com/install.sh | sh
+1. Get ollama install for windows at https://ollama.com/download
+2. Open the .exe file and install ollama
+3. Open command prompt
+
+Pull a LLM of your choice
+1. Example: ollama pull llama3.3
