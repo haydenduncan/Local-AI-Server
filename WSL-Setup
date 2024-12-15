@@ -1,0 +1,5 @@
+This is how to setup WSL (Windows Subsystem for Linux) on Windows
+
+1. Open terminal in Windows
+2. Runs wsl --install
+3. Reboot your PC
